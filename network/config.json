@@ -33,11 +33,11 @@
       "defaultLabelBGColor": "#ddd",
       "activeFontStyle": "bold",
       "defaultLabelColor": "#000",
-      "labelThreshold": 30,
+      "labelThreshold": 3,
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "bold",
       "hoverFontStyle": "bold",
-      "defaultLabelSize": 2
+      "defaultLabelSize": 30
     },
     "graphProperties": {
       "maxEdgeSize": 0.5,
